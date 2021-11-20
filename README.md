@@ -3,6 +3,8 @@
 # Live
 
  ⚡ https://btsocial.netlify.app/
+ 
+ Use Google account or create new user to log in.
 
 ## Introduction
 
@@ -21,6 +23,5 @@ It is a simple social posts app that allows users to post/participate events wit
 
 ## Preview
 
-
-
+![social app](https://user-images.githubusercontent.com/75986477/142738288-6e6f1833-0c44-48bb-94b4-cb578e1c0b71.JPG)
 
